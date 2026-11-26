@@ -3,5 +3,4 @@ __pycache__/
 .mypy_cache/
 data/output/
 # explorer.py
-# test_pydantic.py
 
